@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @enesdurguti
+- 👋 Hi, I’m Enes Durguti
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React Js, NodeJS, Laravel
-- 💞️ I’m looking to collaborate on some Projetcs
+- 💞️ I’m looking to collaborate on projects so if you have some kind of idea hit me up
 - 📫 Contact me on instagram @enesdurguti and here's my email enesdurguti99@gmail.com
 
 <!---
